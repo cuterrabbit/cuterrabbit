@@ -8,13 +8,18 @@
 
 <br>
 
-## 👋 Hi, There!!
+## 👋 Hi, There! 🐰
 
-백엔드와 클라우드 및 인프라를 공부하고 있습니다.
+⚽ 축구 → 🎮 FM 폐인 → 📊 경기 퍼포먼스를 최적화 및 분석하고 싶어서 코딩 시작 → 🏗️ 데이터가 흐르는 아키텍처를 설계하는 게 더 재밌어서 IT로 정착
+<br>
+그리고 지금은 백엔드/클라우드/인프라를 공부하는 중입니다.
+<br>
 
-- 🌱 Spring Boot · FastAPI 백엔드와 Kubernetes 기반 배포 환경을 구축합니다
-- 🤖 MCP 기반 LLM Agent, RAG 파이프라인처럼 AI Native 서비스를 만들고 싶습니다
-- 📊 측정할 수 없으면 관리할 수 없고, 관리할 수 없으면 개선할 수 없다고 생각합니다
+- 🌱 Spring Boot · FastAPI 백엔드를 최적화된 이미지로 컨테이너 기반으로 배포하는 걸 좋아해요 → 도커파일 최적화하는 게 취미
+- 🤖 MCP 기반 LLM Agent 및 AIOps, RAG 파이프라인 → AI Native 서비스 만들기가 요즘 목표
+- 📊 "측정할 수 없으면 관리할 수 없다"를 믿는 사람 (이것도 FM에서 배운 겁니다) → 대시보드를 보는 걸 참 좋아합니다 
+
+
 
 <br>
 
@@ -92,5 +97,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Email-ledw8992%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/GitHub-cuterrabbit-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
