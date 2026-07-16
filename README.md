@@ -77,6 +77,7 @@
 | [`springboot-_mysql_on_kubernetes`](https://github.com/cuterrabbit/springboot-_mysql_on_kubernetes) | 3개의 VM 기반으로 k8s 클러스터 구축 — Ingress, StatefulSet, 부하테스트 |
 | [`docker-hub-Lab`](https://github.com/cuterrabbit/docker-hub-Lab) | Dockerfile 5단계 최적화 비교 — 멀티스테이지, distroless, BuildKit 캐시 |
 | [`docker-compose-lab`](https://github.com/cuterrabbit/docker-compose-lab) | Docker HealthCheck 기반 컨테이너 실행 순서 제어 실험 |
+| [`mistakes-in-java-streams`](https://github.com/cuterrabbit/mistakes-in-java-streams) | Java Stream 성능 비교 스터디 진행 — For-loop/Sequential/Parallel Stream 실행 시간 측정 및 분석 |
 
 
 <br>
