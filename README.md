@@ -74,7 +74,7 @@
 
 | 저장소 | 내용 |
 |---|---|
-| [`predictive-vs-learned-autoscaling`](https://github.com/cuterrabbit/predictive-vs-learned-autoscaling) | 콩콩팥팥의 시계열 예측값을 기반으로 파드 결정 정책을 threshold, MPC, RL 비교 및 분석 |
+| [`predictive-vs-learned-autoscaling`](https://github.com/cuterrabbit/predictive-vs-learned-autoscaling) | 서비스 트래픽의 시계열 예측값을 기반으로 파드 결정 정책을 threshold, MPC, RL 비교 및 분석 |
 | [`linux-container-from-scratch`](https://github.com/cuterrabbit/linux-container-from-scratch) | Docker의 핵심 메커니즘인 namespace/cgroups v2/seccomp/OverlayFS 직접 구현 |
 | [`springboot-_mysql_on_kubernetes`](https://github.com/cuterrabbit/springboot-_mysql_on_kubernetes) | 3개의 VM 기반으로 k8s 클러스터 구축 — Ingress, StatefulSet, 부하테스트 |
 | [`docker-hub-Lab`](https://github.com/cuterrabbit/docker-hub-Lab) | Dockerfile 5단계 최적화 비교 — 멀티스테이지, distroless, BuildKit 캐시 |
